@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2
+sampleX,https://github.com/singleron-RD/accurascope_rna_test_data/raw/master/accuraSCOPE-V1/sampleX_001_R1.fq.gz,https://github.com/singleron-RD/accurascope_rna_test_data/raw/master/accuraSCOPE-V1/sampleX_001_R2.fq.gz
+sampleX,https://github.com/singleron-RD/accurascope_rna_test_data/raw/master/accuraSCOPE-V1/sampleX_002_R1.fq.gz,https://github.com/singleron-RD/accurascope_rna_test_data/raw/master/accuraSCOPE-V1/sampleX_002_R2.fq.gz
+sampleY,https://github.com/singleron-RD/accurascope_rna_test_data/raw/master/accuraSCOPE-V1/sampleY_001_R1.fq.gz,https://github.com/singleron-RD/accurascope_rna_test_data/raw/master/accuraSCOPE-V1/sampleY_001_R2.fq.gz
